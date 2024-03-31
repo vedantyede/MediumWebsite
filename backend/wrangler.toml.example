@@ -3,3 +3,5 @@ compatibility_date = "2023-12-01"
 
 [vars]
 DATABASE_URL="prisma:url"
+
+JWT_SECRET = "key"
